@@ -92,7 +92,7 @@
 | ------------------ | 
 | <img src="./screenshots/flutter_16.png" height="400" alt="Screenshot"/> | 
 ___
-##### I hope this repository will be helpful to flutter developers. Feel free to reach out to me in case you have any queries or feedback.
+##### I hope this repository will be helpful to flutter developers. Feel free to reach out to me in case you have any queries or feedback...
 
 
 
